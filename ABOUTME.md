@@ -6,6 +6,6 @@
 - 📫 How to reach me ... Apart from GitHub, I've Instagram, Facebook, Linkedin and whatsapp... Just find me as "Bruno Disliler" anywhere.
 - Open to negociate and work anywhere at anytime...
 
-<img src="{https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white}" />
+![image]({https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white})
                           
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+
