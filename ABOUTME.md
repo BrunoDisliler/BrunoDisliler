@@ -1,11 +1,27 @@
-- 👋 Hello there, I’m @BrunoDisliler
-- 👀 I’m passionate about technology, surfing, beach and the track of learning something new every single day
-- 🌱 I’m currently learning Python with Django as first programming language. At college i was able to learn the fundamentals of Java and C.
-- That´s my last year of college and i already could learn and work on projects with DataBase PostGreSQL, Agile methodology with SCRUM and KANBAN. Knowledge of HTML, CSS and JS. Currently working as a infrastructure intern.  
-- 💞️ I’m looking to collaborate on a real project, learning path, bootcamp or anything that helps me to get in as fast as possible in the real workplace.
-- 📫 How to reach me ... Apart from GitHub, I've Instagram, Facebook, Linkedin and whatsapp... Just find me as "Bruno Disliler" anywhere.
-- Open to negociate and work anywhere at anytime...
+# Welcome!
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 	![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-![image]({https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white})
-                          
+## I'm (Bruno Disliler)
 
+
+:computer: I'm Back-End Developer Student and currently working as Infrastructure Intern at ScPar Porto de Imbituba!
+
+:house_with_garden: I’m from Imbituba - Santa Catarina - Brazil
+
+:books: Currently learning Python(Django), HTML5, CSS3 e Javascript.
+
+:outbox_tray: 2021 Goals: Create a new personal project and find a new job.
+
+## About Me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md)](https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunodisliler/)]( https://www.linkedin.com/in/brunodisliler/) 
+
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BrunoDisliler&show_icons=true)                                                                      ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDisliler&theme=blue-green)
+
+
+
+
+
+ ##   Here is a random joke that perhaps will make you laugh!
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
