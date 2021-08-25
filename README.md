@@ -8,7 +8,7 @@
 
 :house_with_garden: I’m from Imbituba - Santa Catarina - Brazil
 
-:books: Currently learning Python(Django), HTML5, CSS3 e Javascript.
+:books: Python(Django), HTML5, CSS3 e Javascript.
 
 :outbox_tray: 2021 Goals: Create a new personal project and find a new job.
 
