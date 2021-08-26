@@ -4,13 +4,13 @@
 ## I'm (Bruno Disliler)
 
 
-:computer: I'm Back-End Developer Student and currently working as Infrastructure Intern at ScPar Porto de Imbituba!
+:computer: I'm Back-End Developer Student and currently working as Intern at ScPar Porto de Imbituba!
 
 :house_with_garden: I’m from Imbituba - Santa Catarina - Brazil
 
 :books: Python(Django), HTML5, CSS3 e Javascript.
 
-:outbox_tray: 2021 Goals: Create a new personal project and find a new job.
+:outbox_tray: 2021 Goals: Master Python(Django) and relatives technologies 
 
 ## About Me
 
