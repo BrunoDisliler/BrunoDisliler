@@ -4,7 +4,7 @@
 ## I'm (Bruno Disliler)
 
 
-:computer: I'm Back-End Developer Student and currently working as Intern at ScPar Porto de Imbituba!
+:computer: I'm Full Stack Web Development Student and currently working as Intern at ScPar Porto de Imbituba and a Tryber!
 
 :house_with_garden: I’m from Imbituba - Santa Catarina - Brazil
 
