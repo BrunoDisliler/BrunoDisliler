@@ -10,7 +10,7 @@
 
 :books: Python(Django), HTML5, CSS3 e Javascript.
 
-:outbox_tray: 2021 Goals: Master Python(Django) and relatives technologies 
+:outbox_tray: 2022 Goals: Master Web technologies 
 
 ## About Me
 
