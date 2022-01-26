@@ -4,13 +4,13 @@
 ## I'm (Bruno Disliler)
 
 
-:computer: I'm Full Stack Web Development Student and currently working as Intern at ScPar Porto de Imbituba and a Tryber!
+:computer: I'm Full Stack Web Development Student at Trybe and currently working as Intern at Imbituba Harbour.
 
 :house_with_garden: I’m from Imbituba - Santa Catarina - Brazil
 
-:books: Python(Django), HTML5, CSS3 e Javascript.
+:books: Python(Django), HTML5, CSS3 (Bootstrap) e Javascript.
 
-:outbox_tray: 2022 Goals: Master Web technologies 
+:outbox_tray: 2022 Goals: Master Web technologies and get a Jr. Dev Job.
 
 ## About Me
 
