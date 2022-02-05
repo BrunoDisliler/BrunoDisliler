@@ -4,7 +4,7 @@
 ## I'm (Bruno Disliler)
 
 
-:computer: I'm Full Stack Web Development Student at Trybe and currently working as Intern at Imbituba Harbour.
+:computer: I'm Full Stack Web Development Student at Trybe and currently working as Tech support Intern at Imbituba Harbour.
 
 :house_with_garden: I’m from Imbituba - Santa Catarina - Brazil
 
