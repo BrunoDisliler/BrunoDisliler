@@ -17,6 +17,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md)](https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunodisliler/)]( https://www.linkedin.com/in/brunodisliler/) 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrunoDisliler&theme=dracula&hide_border=true)
 
+<a href="https://app.daily.dev/bdisliler"><img src="https://api.daily.dev/devcards/0f7f35a139e94d98b34605b25d9658a5.png?r=tbp" width="400" alt="Bruno Disliler's Dev Card"/></a>
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BrunoDisliler&show_icons=true)                                                       
 
 
