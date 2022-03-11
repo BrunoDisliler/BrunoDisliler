@@ -18,7 +18,8 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrunoDisliler&theme=dracula&hide_border=true)
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/BrunoDisliler/BrunoDisliler/blob/master/devcard.svg" width="300" alt="Bruno Disliler's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/BrunoDisliler/BrunoDisliler/blob/main/devcard.svg" width="300" alt="Bruno Disliler's Dev Card"/></a>
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BrunoDisliler&show_icons=true)                                                       
 
