@@ -6,8 +6,8 @@
    <td valign="center">
      🎓 I am currently pursuing and almost finishing (This Year) my <b>Bachelor's in Computer Science Engineering</b>. <br>
     :computer: I'm Full Stack Web Development Student at Trybe and currently working as Tech support Intern at Imbituba Harbour. <br>
-    🌱 I am currently learning <b>JavaScript | CSS | HTML</b> and also interested in <b>Web Development</b>. <br>
-     🎯 My Goal is to be <b>prepared</b> for the marketplace, and also to work outside my hometown or even my homecountry (Brazil)<br>
+    🌱 I am currently learning <b>React</b>. <br>
+     🎯 My Goal is to get <b>prepared</b> for the marketplace, and also to work outside my hometown or even my homecountry (Brazil)<br>
      ✨ Passionate about technology. <br>
     :house_with_garden: I’m from Imbituba - Santa Catarina - Brazil <br>
    </td>
