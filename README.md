@@ -1,6 +1,7 @@
 ## Hello, I'm Bruno Disliler
 
-### About Me: https://brunodisliler.github.io/Portfolio/
+### My Portfolio made with 💙, HTML, CSS & JS: https://brunodisliler.github.io/Portfolio/
+### Portfolio made with React: In Progress...
 
  🎓 <b>Bachelor's in Computer Science Engineering</b>. <br>
 :computer: I'm Full Stack Web Development Student at Trybe. <br>
