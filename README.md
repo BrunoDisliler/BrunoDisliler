@@ -1,7 +1,6 @@
 ## Hello, I'm Bruno Disliler
 
 ### My Portfolio made with 💙, HTML, CSS & JS: https://brunodisliler.github.io/Portfolio/
-### React App - Task Tracker: https://brunodisliler.github.io/task-tracker-app/
 
  🎓 <b>Bachelor's in Computer Science Engineering</b>. <br>
 :computer: I'm Full Stack Web Development Student at Trybe. <br>
