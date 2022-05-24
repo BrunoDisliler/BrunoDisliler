@@ -30,4 +30,3 @@
 
  
  Contact me: bdisliler@hotmail.com <br>
-             https://www.linkedin.com/in/brunodisliler/
