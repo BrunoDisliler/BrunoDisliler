@@ -29,5 +29,5 @@
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
  
- Contact me: bdisliler@hotmail.com
+ Contact me: bdisliler@hotmail.com <br>
              https://www.linkedin.com/in/brunodisliler/
