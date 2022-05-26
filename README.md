@@ -16,20 +16,14 @@
  - Weather App: https://brunodisliler.github.io/WeatherApp/
   
 ### <b> Back End Module in Progress...🌱 <b>
-👌 <b> Learned Technologies: Docker - SQL( MySQL ) - <br><br><br>
- 
- 🎯 My Goal is to make the difference and grow up as a Tech Professional in the web development field<br>
- ✨ Passionate about technology. <br>
-:house_with_garden: I’m from Santa Catarina - Brazil <br>
-
+👌 <b> Learned Technologies: Docker - SQL( MySQL ) - <hr>
 
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md)](https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunodisliler/)]( https://www.linkedin.com/in/brunodisliler/) 
-  
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrunoDisliler&theme=dracula&hide_border=true)
-                                                   
-
- ##   Here is a random joke that perhaps will make you laugh!
- ![Jokes Card](https://readme-jokes.vercel.app/api)
-
+  <h3>
+  🎯 My Goal is to make the difference and grow up as a Tech Professional in the web development field <br>
+  ✨ Passionate about technology. <br>
+  :house_with_garden: I’m from Santa Catarina - Brazil <br>
+  📫 Contact me: bdisliler@hotmail.com <br>
+ </h3><hr>
  
- ### Contact me: bdisliler@hotmail.com <br>
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrunoDisliler&theme=dracula&hide_border=true)
