@@ -10,6 +10,7 @@
 👌<b> Learned Technologies: Unix & Bash - Git & GitHub - HTML & CSS - Javascript ES6 - Jest Unit Tests <b> <br>
  
 ### <b> Front End Module Done <b> ✅
+ Hands On Porjects: Weather App: https://brunodisliler.github.io/WeatherApp/
 👌<b> Learned Technologies: Scrum & KanBan - React - Redux - React Testing Library - ContextAPI & Hooks <b> <br>
   
 ### <b> Back End Module in Progress...🌱 <b>
