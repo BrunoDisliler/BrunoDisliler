@@ -1,10 +1,10 @@
-# Hello, I'm Bruno Disliler
+<h1 align="center"> Hello, I'm Bruno Disliler </h1> <br>
 
-## My React PortFolio using ContextAPI: https://brunodisliler.github.io/PortFolio-React/
-## My Portfolio made with 💙, HTML, CSS & JS: https://brunodisliler.github.io/Portfolio/
+### My PortFolio made with ❤️, BootStrap, JS, React(ContextAPI): https://brunodisliler.github.io/PortFolio-React/
+### My Portfolio made with ❤️, HTML, CSS & JS: https://brunodisliler.github.io/Portfolio/ <hr>
 
- 🎓 <b>Bachelor's in Computer Science Engineering</b>. <br>
-:computer: I'm Full Stack Web Development Student at Trybe. <br>
+ <h3>🎓 Associate Degree in Information Technology</h3>
+ <h3>:computer: I'm Full Stack Web Development Student at Trybe. </h3><hr>
 
 ### <b> Fundamentals Module Done <b> ✅
 👌<b> Learned Technologies: Unix & Bash - Git & GitHub - HTML & CSS - Javascript ES6 - Jest Unit Tests <b> <br>
@@ -12,7 +12,7 @@
 ### <b> Front End Module Done <b> ✅
 👌<b> Learned Technologies: Scrum & KanBan - React - Redux - React Testing Library - ContextAPI & Hooks <b> <br>
  
-🖥️ Hands On Projects: 
+▶️ Front-End Hands On Projects: 
  - Weather App: https://brunodisliler.github.io/WeatherApp/
   
 ### <b> Back End Module in Progress...🌱 <b>
