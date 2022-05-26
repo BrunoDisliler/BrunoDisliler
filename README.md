@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Bruno Disliler </h1> <br>
 
-### My PortFolio made with ❤️, BootStrap, JS, React(ContextAPI): https://brunodisliler.github.io/PortFolio-React/
+### My PortFolio made with ❤️, BootStrap, JS, React: https://brunodisliler.github.io/PortFolio-React/
 ### My Portfolio made with ❤️, HTML, CSS & JS: https://brunodisliler.github.io/Portfolio/ <hr>
 
  <h3>🎓 Associate Degree in Information Technology</h3>
