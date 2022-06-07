@@ -17,7 +17,7 @@
  - E-Commerce App: https://brunodisliler.github.io/BRImportacao/
   
 ### <b> Back End Module in Progress...🌱 <b>
-👌 <b> Learned Technologies: Docker - SQL( MySQL ) - Node <hr>
+👌 <b> Learned Technologies: Docker - SQL( MySQL ) - Node - <hr>
 
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md)](https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunodisliler/)]( https://www.linkedin.com/in/brunodisliler/) 
   <h3>
