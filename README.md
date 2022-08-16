@@ -4,7 +4,7 @@
 ### My Portfolio made with ❤️, HTML, CSS & JS: https://brunodisliler.github.io/Portfolio/ <hr>
 
  <h3>🎓 Associate Degree in Information Technology</h3>
- <h3>:computer: I'm Full Stack Web Development Student at Trybe. </h3><hr>
+ <h3>:computer: Full Stack Web Development Student at Trybe. </h3><hr>
 
 ### <b> Fundamentals Module Done <b> ✅
 👌<b> Learned Technologies: Unix & Bash - Git & GitHub - HTML & CSS - Javascript ES6 - Jest Unit Tests <b> <br>
