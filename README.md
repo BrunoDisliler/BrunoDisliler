@@ -15,6 +15,10 @@
 ▶️ Front-End Hands On Projects: 
  - Weather App: https://brunodisliler.github.io/WeatherApp/
  - E-Commerce App: https://brunodisliler.github.io/BRImportacao/
+ 
+ ▶️ Back-End Hands On Projects
+ 
+ - Drop Shipping Project Using Express/Node: https://github.com/BrunoDisliler/dropshipping-backend-express
   
 ### <b> Back End Module in Progress...🌱 <b>
 👌 <b> Learned Technologies: Docker - SQL( MySQL ) - Node - Express - MSC - JWT - Testes Back End(Mocha, Chai, Sinon) - <hr>
