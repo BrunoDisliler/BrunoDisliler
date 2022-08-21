@@ -17,7 +17,6 @@
  - E-Commerce App: https://brunodisliler.github.io/BRImportacao/
  
  ▶️ Back-End Hands On Projects
- 
  - Drop Shipping Project Using Express/Node: https://github.com/BrunoDisliler/dropshipping-backend-express
  - Full Stack CRUD Application: https://github.com/BrunoDisliler/FullStack-Crud-Application
   
