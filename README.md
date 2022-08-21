@@ -19,6 +19,7 @@
  ▶️ Back-End Hands On Projects
  
  - Drop Shipping Project Using Express/Node: https://github.com/BrunoDisliler/dropshipping-backend-express
+ - Full Stack CRUD Application: https://github.com/BrunoDisliler/FullStack-Crud-Application
   
 ### <b> Back End Module in Progress...🌱 <b>
 👌 <b> Learned Technologies: Docker - SQL( MySQL ) - Node - Express - MSC - JWT - Testes Back End(Mocha, Chai, Sinon) - <hr>
