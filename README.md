@@ -13,7 +13,7 @@
 👌<b> Learned Technologies: Scrum & KanBan - React - Redux - React Testing Library - ContextAPI & Hooks <b> <br>
   
 ### <b> Back End Module in Progress...🌱 <b>
-👌 <b> Learned Technologies: Docker - SQL( MySQL ) - Node - Express - MSC - JWT - Testes Back End(Mocha, Chai, Sinon) - <hr>
+👌 <b> Learned Technologies: Docker - SQL( MySQL ) - Node - Express - MSC - JWT - Testes Back End (Mocha, Chai, Sinon) - ORM (Sequelize) <hr>
  
  ▶️ Front-End Hands On Projects: 
  - Weather App: https://brunodisliler.github.io/WeatherApp/
