@@ -22,6 +22,7 @@
  ▶️ Back-End Hands On Projects
  - Drop Shipping Project Using Express/Node: https://github.com/BrunoDisliler/dropshipping-backend-express
  - Full Stack CRUD Application: https://github.com/BrunoDisliler/FullStack-Crud-Application
+ - CRUD using ORM Sequelize and MySQL with .env: https://github.com/BrunoDisliler/trybe-exercises/tree/master/Back-End/bloco-24-nodejs-orm-autenticacao/dia-1-orm-interface-da-aplicacao-com-o-banco-de-dados/app-with-sequelize
 
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md)](https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunodisliler/)]( https://www.linkedin.com/in/brunodisliler/) 
   <h3>
