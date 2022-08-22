@@ -11,17 +11,17 @@
  
 ### <b> Front End Module Done <b> ✅
 👌<b> Learned Technologies: Scrum & KanBan - React - Redux - React Testing Library - ContextAPI & Hooks <b> <br>
+  
+### <b> Back End Module in Progress...🌱 <b>
+👌 <b> Learned Technologies: Docker - SQL( MySQL ) - Node - Express - MSC - JWT - Testes Back End(Mocha, Chai, Sinon) - <hr>
  
-▶️ Front-End Hands On Projects: 
+ ▶️ Front-End Hands On Projects: 
  - Weather App: https://brunodisliler.github.io/WeatherApp/
  - E-Commerce App: https://brunodisliler.github.io/BRImportacao/
  
  ▶️ Back-End Hands On Projects
  - Drop Shipping Project Using Express/Node: https://github.com/BrunoDisliler/dropshipping-backend-express
  - Full Stack CRUD Application: https://github.com/BrunoDisliler/FullStack-Crud-Application
-  
-### <b> Back End Module in Progress...🌱 <b>
-👌 <b> Learned Technologies: Docker - SQL( MySQL ) - Node - Express - MSC - JWT - Testes Back End(Mocha, Chai, Sinon) - <hr>
 
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md)](https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunodisliler/)]( https://www.linkedin.com/in/brunodisliler/) 
   <h3>
