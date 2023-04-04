@@ -1,35 +1,15 @@
-<h1 align="center"> Hello, I'm Bruno Disliler </h1> <br>
+<h1 align="center"> Olá, sou Bruno Disliler </h1> <br>
 
-### My PortFolio made with BootStrap, JS, React: https://brunodisliler.github.io/PortFolio-React/
-### My Portfolio made with HTML, CSS & JS: https://brunodisliler.github.io/Portfolio/ <hr>
+ <h3>🎓 Formado em Análise e Desenvolvimento de Sistemas</h3>
+ <h3>🎓 MBA em Cybersecurity & Cybercrimes (previsão conclusão Nov/2023)</h3>
+ <h3>:computer: Ex aluno do curso de Desenvolvimento Web Full Stack da Trybe</h3><hr>
 
- <h3>🎓 Associate Degree in Information Technology</h3>
- <h3>:computer: Full Stack Web Development Student at Trybe. </h3><hr>
-
-### <b> Fundamentals Module Done <b> ✅
-👌<b> Learned Technologies: Unix & Bash - Git & GitHub - HTML & CSS - Javascript ES6 - Jest Unit Tests <b> <br>
- 
-### <b> Front End Module Done <b> ✅
-👌<b> Learned Technologies: Scrum & KanBan - React - Redux - React Testing Library - ContextAPI & Hooks <b> <br>
+ <h4> Meu Blog pessoal com minha evolução e projetos: https://medium.com/@bruno_disliler</h4>
+  <h4> Redes Sociais:</h4>
   
-### <b> Back End Module in Progress...🌱 <b>
-👌 <b> Learned Technologies: Docker - SQL( MySQL ) - Node - Express - MSC - JWT - Testes Back End (Mocha, Chai, Sinon) - ORM (Sequelize) <hr>
- 
- ▶️ Front-End Hands On Projects: 
- - Weather App: https://brunodisliler.github.io/WeatherApp/
- - E-Commerce App: https://brunodisliler.github.io/BRImportacao/
- 
- ▶️ Back-End Hands On Projects
- - Drop Shipping Project Using Express/Node: https://github.com/BrunoDisliler/dropshipping-backend-express
- - Full Stack CRUD Application: https://github.com/BrunoDisliler/FullStack-Crud-Application
- - CRUD using ORM Sequelize and MySQL with .env: https://github.com/BrunoDisliler/trybe-exercises/tree/master/Back-End/bloco-24-nodejs-orm-autenticacao/dia-1-orm-interface-da-aplicacao-com-o-banco-de-dados/app-with-sequelize
-
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md)](https://github.com/BrunoDisliler/BrunoDisliler/blob/main/ABOUTME.md) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunodisliler/)]( https://www.linkedin.com/in/brunodisliler/) 
   <h3>
-  🎯 My Goal is to make the difference and grow up as a Tech Professional in the web development field <br>
-  ✨ Passionate about technology. <br>
-  :house_with_garden: I’m from Santa Catarina - Brazil <br>
-  📫 Contact me: bdisliler@hotmail.com <br>
+
+  📫 Entre em contato: brunodislilerdev@gmail.com <br>
  </h3><hr>
- 
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrunoDisliler&theme=dracula&hide_border=true)
+
