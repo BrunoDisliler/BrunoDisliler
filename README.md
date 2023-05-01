@@ -2,7 +2,8 @@
 
  <h3>🎓 Formado em Análise e Desenvolvimento de Sistemas</h3>
  <h3>🎓 MBA em Cybersecurity & Cybercrimes (previsão conclusão Nov/2023)</h3>
- <h3>:computer: Ex aluno do curso de Desenvolvimento Web Full Stack da Trybe</h3><hr>
+ <h3>:computer: Ex aluno do curso de Desenvolvimento Web Full Stack da Trybe</h3>
+ <h3> Inglês Fluente - Nível C1</h3><hr>
 
  <h4> Meu Blog pessoal com minha evolução e projetos: https://medium.com/@bruno_disliler</h4>
   <h4> Redes Sociais:</h4>
